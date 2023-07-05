@@ -65508,35 +65508,6 @@ export const typesBundle = {
         }
       ]
     },
-    "moonsama": {
-      "types": [
-        {
-          "minmax": [
-            0,
-            null
-          ],
-          "types": {
-            "AccountId": "EthereumAccountId",
-            "Address": "AccountId",
-            "LookupSource": "AccountId",
-            "Balance": "u128",
-            "Account": {
-              "nonce": "U256",
-              "balance": "u128"
-            },
-            "EthTransaction": "LegacyTransaction",
-            "DispatchErrorModule": "DispatchErrorModuleU8",
-            "ExtrinsicsSignature": "EthereumSignature",
-            "RoundIndex": "u32",
-            "EthereumSignature": {
-              "r": "H256",
-              "s": "H256",
-              "v": "U8"
-            }
-          }
-        }
-      ]
-    },
     "moonshadow": {
       "alias": {
         "assetManager": {
