@@ -78,7 +78,6 @@ import mangata from './mangata.js';
 import manta from './manta.js';
 import mathchain from './mathchain.js';
 import moonbeam from './moonbeam.js';
-import moonsama from './moonsama.js';
 import mybank from './mybank.js';
 import neatcoin from './neatcoin.js';
 import nftmart from './nftmart.js';
